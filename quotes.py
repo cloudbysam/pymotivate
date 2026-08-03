@@ -5,7 +5,8 @@ LOCAL_QUOTES = {
     "uncle iroh": [
         "Failure is only the opportunity to begin again, only this time more wisely.",
         "Good tea is its own reward.",
-        "Sometimes life is like this dark tunnel. You can’t always see the light at the end of the tunnel, but if you just keep moving you will come to a better place."
+        "Sometimes life is like this dark tunnel. You can’t always see the light at the end of the tunnel, but if you just keep moving you will come to a better place.",
+        "Many things that feels threatening in the dark becomes welcoming when we shine a light on them."
     ],
     "da vinci": [
         "Learning never exhausts the mind.",
